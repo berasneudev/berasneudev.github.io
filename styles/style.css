@@ -1,0 +1,14 @@
+body {
+    font-family: "Google Sans", sans-serif;
+    background-color: #efefef;
+}
+.portfolio {
+    text-align: center;
+    line-height: 15px;
+}
+.small {
+    margin-top: 50%;
+    font-size: 15px;
+    padding-bottom: 500px;
+    color: #9aa4b2;
+}
